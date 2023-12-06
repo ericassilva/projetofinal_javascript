@@ -69,4 +69,4 @@ function calcularMedia() {
   // evite mexer na linha de código abaixo!
   document.getElementById("situacaoAluno").innerHTML = mensagem;
 }
->>>>>>> 4a33ea1e827e7f96c03ec5abbda177c61d763ffa
+>>>>>>> 4a33ea1e827e7f96c03ec5abbda177c61d763ffa 
